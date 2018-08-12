@@ -1,0 +1,12 @@
+:::::::::::::::::::::SISTEMA DE AGENDA:::::::::::::::::::::::
+::  1 - CADASTRAR CONTATO	                           ::
+::  2 - MOSTRAR TODOS OS CONTATOS                          ::
+::  3 - MOSTRAR QUANTIDADE DE CONTATOS                     ::
+::  4 - PESQUISAR ANIVERSARIANTES DO MÊS                   ::
+::  5 - PESQUISAR CONTATO POR NOME                         ::
+::  6 - ALTERAR TELEFONE DO CONTATO PESQUISANDO POR NOME   ::
+::  7 - REMOVER CONTATO PESQUISANDO POR NOME               ::
+::  8 - EXCLUIR TODOS OS CONTATOS                          ::
+::  0 - SAIR                                               ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+DIGITE A OPÇÃO:   

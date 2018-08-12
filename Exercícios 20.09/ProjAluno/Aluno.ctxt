@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=nome
+comment1.target=void\ setNome(java.lang.String)
+comment2.params=media
+comment2.target=void\ setMedia(double)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=double\ getMedia()
+comment5.params=
+comment5.target=java.lang.String\ verificarConceito()
+numComments=6

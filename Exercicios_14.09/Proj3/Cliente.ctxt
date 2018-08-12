@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=
+comment1.target=void\ sacar()
+comment2.params=
+comment2.target=void\ depositar()
+comment3.params=
+comment3.target=void\ consultarSaldo()
+comment4.params=
+comment4.target=void\ transferir()
+numComments=5

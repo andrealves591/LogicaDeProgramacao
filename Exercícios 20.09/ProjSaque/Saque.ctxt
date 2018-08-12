@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Saque
+comment1.params=valor
+comment1.target=void\ setValor(int)
+comment2.params=
+comment2.target=int\ getValor()
+comment3.params=
+comment3.target=int\ calcularNotas100()
+comment4.params=
+comment4.target=int\ calcularNotas50()
+comment5.params=
+comment5.target=int\ calcularNotas5()
+comment6.params=
+comment6.target=int\ calcularNotas1()
+numComments=7

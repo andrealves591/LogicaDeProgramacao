@@ -1,0 +1,36 @@
+import java.util.Scanner;
+public class Main{
+    public static void main(String args[]){
+        Scanner leia = new Scanner(System.in);
+        //Entrada de Dados:
+        System.out.print("Digite o valor de saque: R$");
+        int valorsaque = leia.nextInt();
+        int nota100 = 100;
+        int nota50 = 50;
+        int nota20 =  20;
+        int nota10 = 10;
+        int nota5 = 5;
+        int nota2 = 2;
+        //Processamentos:
+        int saque100 = valorsaque/nota100;
+        int resto100 = valorsaque%nota100;
+        int saque50 = resto100/nota50;
+        int resto50 = resto100%nota50;
+        int saque20 = resto50/nota20;
+        int resto20 = resto50%nota20;
+        int saque10 = resto20/nota10;
+        int resto10 = resto20%nota10;
+        int saque5 = resto10/nota5;
+        int resto5 = resto10%nota5;
+        int saque2 = resto5/nota2;
+        int resto2 = resto5%nota2;
+        //Saida De Dados:
+        System.out.println("Notas R$ 100: "+saque100);
+        System.out.println("Notas R$ 50: "+saque50);
+        System.out.println("Notas R$ 20: "+saque20);
+        System.out.println("Notas R$ 10: "+saque10);
+        System.out.println("Notas R$ 5: "+saque5);
+        System.out.println("Notas R$ 2: "+saque2);
+        
+    }
+}
